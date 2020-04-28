@@ -1,0 +1,21 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 30
+  },
+  "elastic": {
+    "cloud": {
+      "id": "customer-clustering:YXAtc291dGhlYXN0LVhOTRlNjIxZDUzMWQ3JDYwYzUwZGQyOTYwN",
+      "username": "elastic",
+      "password": "knT2p0sALaseWERW234aoRKRlZ"
+    },
+    "paginate": {
+      "default": 10000,
+      "max": 20000
+    }
+  },
+  "nedb": "../data"
+}
