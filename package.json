@@ -48,7 +48,7 @@
     "cors": "^2.8.5",
     "feathers-nedb": "^4.0.1",
     "helmet": "^3.18.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nedb": "^1.8.0",
     "serve-favicon": "^2.5.0",
     "underscore": "^1.12.1",
